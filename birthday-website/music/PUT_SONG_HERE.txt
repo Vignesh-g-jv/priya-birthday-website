@@ -1,0 +1,12 @@
+Add your song here!
+
+1. Get an MP3 of "your song" (a song that means something to you two — I can't
+   include real songs myself because of copyright, but you can add any track
+   you already own or a royalty-free track).
+2. Rename the file to exactly:  song.mp3
+3. Put it in this /music folder, replacing this text file.
+4. Delete this txt file once song.mp3 is in place (optional, just for tidiness).
+
+The site already has a 🔇 Music button in the top-right corner that plays/pauses
+music/song.mp3, and it will also try to start playing automatically the moment
+she taps "Yes 💖".
